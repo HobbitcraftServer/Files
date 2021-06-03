@@ -5,4 +5,4 @@ The download for the Season 4 modpack/world is [Here](https://github.com/DerpDer
 
 The download for the Season 3 world is [Here](https://drive.google.com/file/d/11Cw7VqkEgiEEQMBjvxCsnxvR1BQGY9SX/view?usp=sharing) 
 
-All other files including the season 2 world and resource packs can be found [Here](github.com/DerpDerpling/Hobbitcraft-Files/releases)
+All other files including the season 2 world and resource packs can be found [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases)
