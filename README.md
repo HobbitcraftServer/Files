@@ -9,10 +9,10 @@ The download for the Creative Season 1 world is [Here](https://github.com/DerpDe
 
 The download for the Season 4 modpack/world is [Here](https://github.com/DerpDerpling/Hobbitcraft-S4/releases)
 
-The download for the Season 3 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/tag/S3) 
+The download for the Season 3 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/download/S3/Hobbitcraft_3.zip) 
 
-The download for the Season 2 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/tag/S2) 
+The download for the Season 2 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/download/S2/Hobbitcraft-2.zip) 
 
 ## Resource Pack Downloads
 
-All resource pack downloads can be found [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/tag/Resource-Packs)
+All resource pack downloads can be found [Here](https://github.com/HobbitcraftServer/Files/releases/tag/Resource-Packs)
