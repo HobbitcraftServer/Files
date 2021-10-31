@@ -7,6 +7,8 @@ The download for the Creative Season 1 world is [Here](https://github.com/DerpDe
 
 ## Seasonal World Downloads
 
+The download for the Season 5 world is [Here](https://github.com/HobbitcraftServer/Files/releases/download/hc5/Hobbitcraft_Five.zip)
+
 The download for the Season 4 modpack/world is [Here](https://github.com/DerpDerpling/Hobbitcraft-S4/releases)
 
 The download for the Season 3 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/download/S3/Hobbitcraft_3.zip) 
