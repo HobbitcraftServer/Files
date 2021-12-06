@@ -17,4 +17,4 @@ The download for the Season 2 world is [Here](https://github.com/DerpDerpling/Ho
 
 ## Resource Pack Downloads
 
-All resource pack downloads can be found [Here](https://github.com/HobbitcraftServer/Files/tree/main/Resource%20Packs)
+All resource pack downloads can be found [Here](https://i.derpy.xyz/ResourcePacks.zip)
