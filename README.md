@@ -3,7 +3,7 @@ This is the official place for all hobbitcraft files! Most small things will be 
 
 ## Creative World Downloads
 
-The download for the Creative Season 1 world is [Here](https://github.com/DerpDerpling/Hobbitcraft-Files/releases/download/HC-Creative/Hobbitcraft_Creative.zip) 
+The download for the Creative Season 1 world is [Here](https://i.derpy.xyz/Hobbitcraft_Creative.zip) 
 
 ## Seasonal World Downloads
 
