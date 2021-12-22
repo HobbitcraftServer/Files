@@ -1,5 +1,5 @@
-# ![HobbitcraftFiles](https://i.derpy.xyz/hobbitcraftfiles.png)
-**THIS PAGE IS NOW OUT OF DATE, PLEASE USE https://hobbitcraft.cc/files FOR NEWER DOWNLOADS. THIS PLACE WILL NO LONGER BE UPDATED**
+
+# **THIS PAGE IS NOW OUT OF DATE, PLEASE USE https://hobbitcraft.cc/files FOR NEWER DOWNLOADS. THIS PLACE WILL NO LONGER BE UPDATED**
 
 ## Creative World Downloads
 
