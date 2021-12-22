@@ -1,5 +1,5 @@
 # ![HobbitcraftFiles](https://i.derpy.xyz/hobbitcraftfiles.png)
-This is the official place for all Hobbitcraft files! Most small things will be published as releases here on the github, but some things are a bit too big to fit here so im going to be providing external links to download them. All world downloads are below
+**THIS PAGE IS NOW OUT OF DATE, PLEASE USE https://hobbitcraft.cc/files FOR NEWER DOWNLOADS. THIS PLACE WILL NO LONGER BE UPDATED**
 
 ## Creative World Downloads
 
